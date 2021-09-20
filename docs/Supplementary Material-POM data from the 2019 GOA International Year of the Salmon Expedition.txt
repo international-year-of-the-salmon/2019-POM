@@ -3,49 +3,53 @@ Protocols for Particulate Organic Matter Data from the 2019 Gulf of Alaska Inter
 
 Collecting samples 
 
-1.	Samples collected from the photic zone (25m depth) using Niskin bottle 
-2.	Ideally replicate samples collected, one to be acidified and the other not to be acidified. However, we can expect very low biomass and use all the water we can (5L) to make sure that we have enough organic material in a sample. Given the amount of water required that we collect one sample as a default and do not acidify to remove carbonates (which are likely minimal in the system). I suggest that we try to collect replicate whenever we can to be able to acidify. 
+1.	Five liters of water collected from the photic zone (5m depth) using Niskin bottle 
+2.	Replicate 2L POM samples collected by vacuum filtration, one to be acidified and the other not to be acidified. 
 
 Filtering the samples 
 
 Filtration is performed with a vacuum pump: 
-1.	Load 25 mm filter funnel with pre-combusted filters and pre-weighed filters. 
+1.	Load 25 mm filter funnel with pre-combusted and pre-weighed 25 mm GF/F filter. 
 2.	Invert sample bottle to mix water and rinse measuring jugs with sample water prior to filtering. 
-3.	Filter 4 liters of water through filter, or enough water for the filter to have significant colour. (add water for 20 minutes, then allow another 10 for water to finish draining) 
+3.	Filter 2 liters of water through filter 
 4.	Do not let the pressure exceed -0.4 bar (-12 inHg). 
 5.	Take care not to let the filter run dry. This will cause phytoplankton cells to rupture. 
 6.	Once all water has been filtered close the filter funnel stopper and turn off the pump. 
 7.	Make sure that the volume of water filtered to the point of termination is recorded. 
 8.	Lift the rubber stopper to release the pressure then carefully remove the filter using flat filter forceps. Fold filter in half (inwards) using two pairs of forceps and place into numbered squares of aluminum foil. 
 9.	Fold the foil square along the edges to seal the package. 
-10.	Label the filter and record the exact volume filtered with sharpie on the tinfoil packet. Record that the Sample Type is ìPOMî. 
+10.	Label the filter and record the exact volume filtered with sharpie on the tinfoil packet. Record that the Sample Type is ‚ÄúPOM‚Äù. 
 11.	For each filter record the filter number, the station depth and date, and the volume filtered on the station sheet. 
 
 IF ACIDIFYING: 
-12.	After filtration lift the rubber stopper to release the pressure then Add 2.5 of 1 M HCl (made with filtered seawater) to the filter funnel using a pipette (use 5 mL 1M HCl (made with filtered seawater) if using 47 mm GF/F filters). 
-13.	Let the HCl bath the filter for 30 seconds. 
-14.	Open the funnel stopper and drain the HCl, rinsing briefly with filtered seawater sprayed around the funnel, never directly on the filter. 
-15.	Label the filter that was acid treated with an ìAî. record the exact volume filtered with sharpie on the tinfoil packet. Record that the Sample Type is ìPOMî. 
+12.	After filtration lift the rubber stopper to release the pressure then add 2.5 of 1 M HCl (made with 0.7 ¬µm filtered seawater) to the filter funnel using a pipette. 
+13.	Let the HCl bathe the filter for 30 seconds. 
+14.	Open the funnel stopper and drain the HCl, rinsing briefly with 0.7 ¬µm filtered seawater sprayed around the funnel, never directly on the filter. 
+15.	Label the filter that was acid treated with an ‚ÄúA‚Äù. Record the exact volume filtered with sharpie on the tinfoil packet. Record that the Sample Type is ‚ÄúPOM‚Äù. 
 16.	For each filter record the filter number, the station depth and date, and the volume filtered on the station sheet. 
 
 Filter Storage 
 
-1.	Place filters in a labelled Ziplock bag (POM) and store in a -20∞C freezer until drying. 
+1.	Place filters in a labelled Ziplock bag (POM) and store in a -20¬∞C freezer until drying. 
 
 Equipment
  
-ï	Niskin bottles
-ï	25mm filter funnel
-ï	Pre-combusted filters & pre-weighed filters
-ï	Sample bottle
-ï	Measuring jugs
-ï	Pump
-ï	Flat filter forceps
-ï	Aluminum foil
-ï	1M HCl
-ï	Pipette
-ï	47mm GF/F Filter
-ï	Funnel
+‚Ä¢	Niskin bottles
+‚Ä¢	
+‚Ä¢	Sample bottle
+‚Ä¢	Measuring jugs
+‚Ä¢	Vacuum pump
+‚Ä¢	Vacuum flask
+‚Ä¢	Filtration manifold
+‚Ä¢	25mm filter funnel
+‚Ä¢	Pre-combusted filters & pre-weighed 25 mm GF/F filters
+‚Ä¢	Flat filter forceps
+‚Ä¢	Aluminum foil
+‚Ä¢	1M HCl
+‚Ä¢	Pipette
+‚Ä¢	
+‚Ä¢	0.7 ¬µm filtered seawater
  
 Onboard Infrastructure Requirements
-ï	-20∞C Freezer
+‚Ä¢	-20¬∞C Freezer
+
