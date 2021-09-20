@@ -53,3 +53,20 @@ Equipment
 Onboard Infrastructure Requirements
 •	-20°C Freezer
 
+Sample Analysis at UC Davis
+
+From https://stableisotopefacility.ucdavis.edu/carbon-and-nitrogen-solids
+
+The SIF provides 13C and 15N isotope analyses of solid materials, such as soils, sediments, plant and animal tissues, etc., using an elemental analyzer interfaced to a continuous flow isotope ratio mass spectrometer (IRMS). For most sample types, we analyze both 13C and 15N in the same sample. For samples with high C:N ratios (typically greater than 100) separate samples are required for 13C and 15N.
+
+Analysis
+The SIF has multiple EA-IRMS systems including different hardware configurations.
+
+Animal tissue and small plant samples are analyzed for 13C and 15N isotopes using a PDZ Europa ANCA-GSL elemental analyzer interfaced to a PDZ Europa 20-20 isotope ratio mass spectrometer (Sercon Ltd., Cheshire, UK). Samples are combusted at 1000°C in a reactor packed with chromium oxide and silvered copper oxide. Following combustion, oxides are removed in a reduction reactor (reduced copper at 650°C). The helium carrier then flows through a water trap (magnesium perchlorate and phosphorous pentoxide). N2 and CO2 are separated on a Carbosieve GC column (65°C, 65 mL/min) before entering the IRMS.
+
+Larger plant samples, glass fiber filters, soils, and sediments are analyzed for 13C and 15N isotopes using an Elementar Vario EL Cube or Micro Cube elemental analyzer (Elementar Analysensysteme GmbH, Hanau, Germany) interfaced to either an Isoprime VisION IRMS (Elementar UK Ltd, Cheadle, UK) or a PDZ Europa 20-20 isotope ratio mass spectrometer (Sercon Ltd., Cheshire, UK). Samples are combusted at 1080°C in a reactor packed with chromium oxide and silvered copper oxide. Following combustion, oxides are removed in a reduction reactor (reduced copper at 650°C). The helium carrier then flows through a water trap (magnesium perchlorate and phosphorous pentoxide). CO2 is retained on an adsorption trap until the N2 peak is analyzed; the adsorption trap is then heated releasing the CO2 to the IRMS.
+
+During analysis, samples are interspersed with several replicates of at least four different laboratory reference materials. These reference materials have been previously calibrated against international reference materials, including: IAEA-600, USGS-40, USGS-41, USGS-42, USGS-43, USGS-61, USGS-64, and USGS-65) reference materials. A sample’s provisional isotope ratio is measured relative to a reference gas peak analyzed with each sample. These provisional values are finalized by correcting the values for the entire batch based on the known values of the included laboratory reference materials. The long term standard deviation is 0.2 ‰ for 13C and 0.3 ‰ for 15N.
+
+The final delta values, delivered to the customer, are expressed relative to international standards VPDB (Vienna Pee Dee Belemnite) and Air for carbon and nitrogen, respectively. For information on delta notation and the international references, please refer to a stable isotope reference such as Sharp, Z. (2005) Principles of Stable Isotope Geochemistry (Prentice Hall).
+
