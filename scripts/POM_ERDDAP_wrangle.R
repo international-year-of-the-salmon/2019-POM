@@ -8,7 +8,8 @@ library(here)
 sheet1 <- read_csv(here("original_data", "raw_data", "POM_tidy-Sheet1.csv"))
 
 sheet1 <- sheet1 %>% 
-  mutate(Date = as_date(Date),
+  # Original date format is day month year
+  mutate(Date = dmy(Date),
     Time = format(Time, "%H:%M:%S"),
        eventDate = format_iso_8601(as.POSIXct(paste(Date, Time),
                                               format="%Y-%m-%d %H:%M:%S",

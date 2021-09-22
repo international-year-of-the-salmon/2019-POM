@@ -1,0 +1,7 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## [1.0.0] - 2021-09-22
+### Changed
+- Changed original date from UTC +12 to UTC and combined date and time to make an eventDate column
+- Changed Longitude value for station 60 based on clear error in transcription
